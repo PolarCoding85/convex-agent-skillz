@@ -290,32 +290,7 @@ description: "When to use this skill and what triggers it."
 
 ## Contributing
 
-Contributions are welcome! Here's how you can help:
-
-### Adding or Improving Skills
-
-1. Fork this repository
-2. Create a branch for your changes
-3. Add or modify skill content in `.claude/skills/`
-4. Follow the existing file structure and formatting conventions
-5. Test your changes by using the skills in a real Convex project
-6. Submit a pull request with a clear description of your changes
-
-### File Structure Conventions
-
-- **SKILL.md** — Main entry point with overview and common patterns
-- **references/\*.md** — Detailed topic-specific guides
-- Use code examples that are complete and runnable
-- Include both "Do" and "Don't" patterns where helpful
-- Keep content actionable — Claude uses this to help developers write code
-
-### What Makes a Good Skill Contribution
-
-- Fills a gap in current Convex coverage
-- Based on real-world usage patterns
-- Includes working code examples
-- Explains the "why" not just the "how"
-- Tested against current Convex version
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Project Structure
 
